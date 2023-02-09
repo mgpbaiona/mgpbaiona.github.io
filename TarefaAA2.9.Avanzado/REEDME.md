@@ -1,14 +1,15 @@
 ﻿# LeMans66
 
-[Version 0](../Version 0/html.html):
+[Version 0](../Version%200/html.html):
 
 Version Original
 
-[Version 1](../Version 1/html.html):
+[Version 1](../Version%201/html.html):
 
 Version con css 
 
-[Version 2](../Version 2/index.html):
+[Version 2](../Version%202/index.html):
+
 version creada con plantilla
 
 como se usa flex en mi web
