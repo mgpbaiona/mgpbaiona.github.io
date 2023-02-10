@@ -11,8 +11,3 @@ Version con css
 [Version 2](../TarefaAA2.9.Avanzado/Version%202/index.html):
 
 version creada con plantilla
-
-como se usa flex en mi web
-
-como se usa grid en mi web
-
